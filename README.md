@@ -16,3 +16,5 @@ Lista de livros para ler em 2019, os livros serão lidos não necessariamente na
  - [ ] The Phoenix Project
  - [ ] Refactoring: Improving the design of exsting code
  - [ ] Test Driven Development: By Example
+ - [ ] Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
+ - [ ] Refactoring to Patterns
